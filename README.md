@@ -23,7 +23,7 @@
 | Plataforma | Download | Requisitos |
 | --- | --- | --- |
 | **Android** | [MegaLift.apk](https://github.com/Studio-of-the-Depths/mega-lift-download/releases/latest/download/MegaLift.apk) | Android 7.0 ou superior |
-| **Navegador** | [Abrir o Mega Lift](https://mega-lift-web.vercel.app) | Qualquer navegador moderno |
+| **Navegador** | [Abrir o Mega Lift](https://megalift.deepseastudio.com.br) | Qualquer navegador moderno |
 
 > As notas de cada versão e os checksums (`SHA256SUMS.txt`) estão em [Releases](https://github.com/Studio-of-the-Depths/mega-lift-download/releases).
 
